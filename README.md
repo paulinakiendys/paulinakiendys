@@ -13,13 +13,13 @@ I'm Paulina, a Front End Developer student. I am keen to learn all there is to k
 - Adobe Creative Cloud (Photoshop, Illustrator and XD)
 - git
 - Figma
-
-#### 🌱 What I will have learned by June 2022:
-
 - NodeJs
 - Express
 - MongoDB
 - mySQL
+
+#### 🌱 What I will have learned by June 2022:
+
 - TypeScript
 - Vue
 - React
