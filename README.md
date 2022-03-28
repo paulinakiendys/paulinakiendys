@@ -42,8 +42,8 @@ I'm Paulina, a Front End Developer student. I am keen to learn all there is to k
 
 #### 📫 How to reach me
 
-- Email: kiendyspaulina@gmail.com
-- [![Linkedin Badge](https://img.shields.io/badge/-PaulinaKiendys-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulinakiendys/)](https://www.linkedin.com/in/paulinakiendys/)
+[![Gmail Badge](https://img.shields.io/badge/-PaulinaKiendys-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiendyspaulina@gmail.com)](mailto:kiendyspaulina@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-PaulinaKiendys-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulina-kiendys/)](https://www.linkedin.com/in/paulina-kiendys/)
 
 <div>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinakiendys&theme=dark&layout=compact" />
