@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> How are you?</h1>
 
-![Introduction](https://github.com/paulinakiendys/paulinakiendys/blob/main/carbon.png)
+![Introduction](https://github.com/paulinakiendys/paulinakiendys/blob/main/assets/carbon.png)
 
 Curious what I've been working on recently? Check out [my repositories](https://github.com/paulinakiendys?tab=repositories)!
 
