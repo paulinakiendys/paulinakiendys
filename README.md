@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media-exp1.licdn.com/dms/image/C4E03AQERJ-CkEsMV_Q/profile-displayphoto-shrink_400_400/0/1633420354994?e=1649289600&v=beta&t=BiAgiDQ6WhPbpONmQKkxnUxtKHg8rjMx2kbpPcXODxY" width="260">
+<img align="right" src="photo_2021-11-18_20-29-04-modified.png" width="260">
 
 I'm Paulina, a Front End Developer student. I am keen to learn all there is to know about programming. Curious what I've been working on recently? Check out [my repositories](https://github.com/paulinakiendys?tab=repositories)!
 
