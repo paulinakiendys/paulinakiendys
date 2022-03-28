@@ -1,8 +1,6 @@
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> How are you?</h1>
+
 ![Introduction](https://github.com/paulinakiendys/paulinakiendys/blob/main/carbon.png)
-
-### Hi there! How are you? 👋
-
-<img align="right" src="photo_2021-11-18_20-29-04-modified.png" width="260">
 
 Curious what I've been working on recently? Check out [my repositories](https://github.com/paulinakiendys?tab=repositories)!
 
