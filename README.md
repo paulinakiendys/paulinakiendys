@@ -16,7 +16,7 @@ I'm Paulina, a Front End Developer student. I am keen to learn all there is to k
 - NodeJs
 - Express
 - MongoDB and Mongoose
-- mySQL and Bookshelfg
+- mySQL and Bookshelf
 
 #### 🌱 What I will have learned by June 2022:
 
